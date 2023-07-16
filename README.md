@@ -17,5 +17,7 @@ NewsPedia is a web app that allows users to fetch news articles based on their q
 NewsPedia utilizes the [News API](https://newsapi.org/) to fetch news articles. Make sure to obtain an API key by signing up on their website and replace the placeholder API key in the code with your own key.
 
 in script.js
+```javascript
 // Replace 'YOUR_API_KEY' with your actual API key
+
 const API_KEY = 'YOUR_API_KEY';
